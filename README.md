@@ -1,1 +1,2 @@
 # TestDlaStudentow
+# zaczynamy pracę!
